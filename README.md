@@ -14,8 +14,8 @@ When I build the 2nd Lambda function, I have a serious problem with the instruct
 
 I will learn more to create new results according to the <em>"Suggestions to Make Your Project Stand Out!"</em> by my own credit from "Free tier".
 
-# 3. Thank you so much for all your helpful supports.
+# 3. Thank you - all Udacity members - so much for all your helpful supports.
 
-When I submitted the project, AWS gateway removed all my old work and set my cost as $0. I ran all the code on Sagemaker in order to create new endpoint that help me get the new image of the execution of my stepfunction. 
+When I submitted the project, AWS gateway removed all my old work and set my cost as $0 - I don't know this process. I ran all the code on Sagemaker in order to create new endpoint that help me get the new image of the execution of my stepfunction. 
 
 New images of visualization are created on my local because the captured data has been downloaded into my local machine.
