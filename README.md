@@ -1,5 +1,3 @@
-# 1. MEET SPECIFICATIONS
-
 ## My project
 
 I believe I have ability to extend my project, but now my credit (from aws gateway) is very high, I am afraid I have no enough credit to learn more for next projects, so I temporarily stop this project now. Hope my results meet the specifications of this project.
